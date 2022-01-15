@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi, I'm Kazem Javadi 👋
+
+
+[![Twitter Badge](https://img.shields.io/badge/-KazemJavadi-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/KazemJavadi)](https://twitter.com/KazemJavadi) 
+[![Linkedin Badge](https://img.shields.io/badge/-KazemJavadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/KazemJavadi/)](https://www.linkedin.com/in/KazemJavadi/)
 
 <!--
 **KazemJavadi/KazemJavadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
